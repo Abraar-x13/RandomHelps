@@ -1,0 +1,17 @@
+Added an edge from 1 to 2
+Added an edge from 2 to 3
+Added an edge from 2 to 4
+Added an edge from 2 to 5
+Added an edge from 3 to 4
+Added an edge from 3 to 7
+Added an edge from 3 to 11
+Added an edge from 5 to 6
+Added an edge from 5 to 7
+Added an edge from 6 to 7
+Added an edge from 6 to 8
+Added an edge from 7 to 11
+Added an edge from 8 to 9
+Added an edge from 8 to 10
+Added an edge from 9 to 10
+Added an edge from 10 to 11
+Added an edge from 11 to 12

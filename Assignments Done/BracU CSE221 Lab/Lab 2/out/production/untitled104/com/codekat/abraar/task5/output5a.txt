@@ -1,0 +1,10 @@
+Array before sorting :
+3 2 6 7 8 1 -3 -27 99 
+Array after sorting : 
+-27 -3 1 2 3 6 7 8 99 
+Elapsed Time in nano seconds: 292772
+Array before sorting : 
+3 2 6 7 8 1 -3 -27 99 
+Array after sorting : 
+-27 -3 1 2 3 6 7 8 99 
+Elapsed Time in nano seconds: 322341

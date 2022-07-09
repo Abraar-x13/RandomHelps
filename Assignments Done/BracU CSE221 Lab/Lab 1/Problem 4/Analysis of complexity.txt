@@ -1,0 +1,22 @@
+The function matrix_multiplication(A, B, dimension) has a
+time complexity of O(dimension^3) and it takes auxiliary
+space of O(dimension^2). explanation -
+
+Time Complexity :
+    for i in range(0, dimension):
+        for j in range(0, dimension):
+            for k in range(0, dimension):
+                multiply() # multiples A[i][k] and B[k][j] and keeps in C[i][j]
+            end
+        end
+    end
+    Here, the multiply() funtion runs i*j*k = dimention^3 times, thus the complexity.
+
+Space Complexity :
+    # Initialize C as a nxn zero matrix. (the outpput)
+    C = [[0, 0, 0, 0],
+         [0, 0, 0, 0],
+         [0, 0, 0, 0],
+         [0, 0, 0, 0]]
+    The C is a dimention*dimention list, where dimention = len(C[0])
+    thus aux space = O(dimension^2).
