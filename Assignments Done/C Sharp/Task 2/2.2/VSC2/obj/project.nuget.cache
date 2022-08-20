@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iNWAstTqf2cko0WxqE5eZ43PoJKlbgXfqP24Lnfhx9hRiPi051zMpdceZx/CUMUTiGZkf+l594U2LXGo0u1TXA==",
+  "success": true,
+  "projectFilePath": "D:\\Nafiz\\VSC2\\VSC2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ventr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ventr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ventr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ventr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
