@@ -1,9 +1,0 @@
-/home/abraar/RiderProjects/Iteration1/Iteration1/bin/Debug/Iteration1.dll
-/home/abraar/RiderProjects/Iteration1/Iteration1/bin/Debug/Iteration1.pdb
-/home/abraar/RiderProjects/Iteration1/Iteration1/bin/Debug/nunit.framework.dll
-/home/abraar/RiderProjects/Iteration1/Iteration1/bin/Debug/nunit.framework.xml
-/home/abraar/RiderProjects/Iteration1/Iteration1/obj/Debug/Iteration1.csproj.AssemblyReference.cache
-/home/abraar/RiderProjects/Iteration1/Iteration1/obj/Debug/Iteration1.csproj.CoreCompileInputs.cache
-/home/abraar/RiderProjects/Iteration1/Iteration1/obj/Debug/Iteration1.csproj.CopyComplete
-/home/abraar/RiderProjects/Iteration1/Iteration1/obj/Debug/Iteration1.dll
-/home/abraar/RiderProjects/Iteration1/Iteration1/obj/Debug/Iteration1.pdb

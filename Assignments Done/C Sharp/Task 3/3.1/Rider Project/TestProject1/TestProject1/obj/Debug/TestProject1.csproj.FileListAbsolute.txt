@@ -1,9 +1,0 @@
-/home/abraar/RiderProjects/TestProject1/TestProject1/bin/Debug/TestProject1.dll
-/home/abraar/RiderProjects/TestProject1/TestProject1/bin/Debug/TestProject1.pdb
-/home/abraar/RiderProjects/TestProject1/TestProject1/bin/Debug/nunit.framework.dll
-/home/abraar/RiderProjects/TestProject1/TestProject1/bin/Debug/nunit.framework.xml
-/home/abraar/RiderProjects/TestProject1/TestProject1/obj/Debug/TestProject1.csproj.AssemblyReference.cache
-/home/abraar/RiderProjects/TestProject1/TestProject1/obj/Debug/TestProject1.csproj.CoreCompileInputs.cache
-/home/abraar/RiderProjects/TestProject1/TestProject1/obj/Debug/TestProject1.csproj.CopyComplete
-/home/abraar/RiderProjects/TestProject1/TestProject1/obj/Debug/TestProject1.dll
-/home/abraar/RiderProjects/TestProject1/TestProject1/obj/Debug/TestProject1.pdb
